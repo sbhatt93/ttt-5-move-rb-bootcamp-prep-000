@@ -11,4 +11,6 @@ end
 def input_to_index(users_input)
   users_input.to_i - 1
 end
+
+def move
   
