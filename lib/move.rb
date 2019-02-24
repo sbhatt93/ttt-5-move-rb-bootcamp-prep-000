@@ -8,5 +8,7 @@ end
 
 # code your input_to_index and move method here!
 
-
+def input_to_index("1"-"9")
+  puts '5'.to_i
+end
   
