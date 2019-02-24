@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(.to_i)
-  do .to_i
+def input_to_index(users_input)
+  logic
 end
   
